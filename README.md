@@ -1,0 +1,1 @@
+This repository contains a Platzi backend Node Js API REST with Express Js course.
